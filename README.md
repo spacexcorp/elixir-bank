@@ -1,11 +1,4 @@
-# elixir-bank
-
-# ElixirBank Backend
-
-[build]: https://github.com/ElixirBank2020/elixir_bank-backend/actions?workflow=Continuous%20Integration
-[build-badge]: https://github.com/ElixirBank2020/elixir_bank-backend/workflows/Continuous%20Integration/badge.svg
-
-[![Build Status][build-badge]][build]
+# Elixir Bank
 
 ## Requirements
 
