@@ -1,0 +1,16 @@
+{
+  "skip_files": [
+    "deps/",
+    "test/",
+    "lib/elixir_bank.ex",
+    "lib/elixir_bank/application.ex",
+    "lib/elixir_bank/repo.ex",
+    "lib/elixir_bank_web.ex",
+    "lib/elixir_bank_web/context.ex",
+    "lib/elixir_bank_web/endpoint.ex",
+    "lib/elixir_bank_web/gettext.ex",
+    "lib/elixir_bank_web/router.ex",
+    "lib/elixir_bank_web/schema/types/",
+    "lib/elixir_bank_web/views/error_helpers.ex"
+  ]
+}
